@@ -1,6 +1,6 @@
 # Hi there! 👋  
 
-I'm Renato de Sousa Almeida, a front-end developer in training.  
+I'm Renato Almeida, a front-end developer in training.  
 Passionate about technology, web development and I am studying systems analysis and development at Unicesumar University. 
 
 ## 🚀 Skills  
