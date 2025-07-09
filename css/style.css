@@ -15,7 +15,7 @@ body {
     background: linear-gradient(176deg, rgba(54,77,204,1) 0%, rgba(19,35,124,1) 100%);
 }
 
-.avatar {
+.logo {
     width: 120px;
     border-radius: 50%;
     border: 3px solid white;
@@ -24,7 +24,7 @@ body {
 
 .profile {
     text-align: center;
-    margin-top: 20px;
+    margin-top: 50px;
 }
 
 
@@ -55,6 +55,7 @@ h2 {
 .links-list {
     padding: 5px;
     list-style: none;
+    text-align: center;
 }
 
 .links-list li a {
